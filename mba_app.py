@@ -2,10 +2,11 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import plotly.express as px
 from apyori import apriori
 from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
-#import plotly.express as px
+
 
 st.title('Market Basket Analysis')
 
