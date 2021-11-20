@@ -1,9 +1,8 @@
 streamlit
 pandas
-requests
-regex
-bs4
+numpy
+plotly
+apyori
 wordcloud
 matplotlib
-
 
