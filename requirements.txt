@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+regex
+bs4
+wordcloud
+matplotlib
+
+
