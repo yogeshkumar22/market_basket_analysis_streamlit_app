@@ -4,6 +4,6 @@ In this project we did Market Basket Analysis on a grocery shopping data using A
 
 Check App [here](https://share.streamlit.io/yogeshkumar22/market_basket_analysis_streamlit_app/main/mba_app.py)
 
-A glimpse of the web app:
+## A glimpse of the web app:
 
 ![GIF](mba_streamlitt.gif)
